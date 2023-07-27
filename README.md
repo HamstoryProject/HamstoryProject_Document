@@ -1,7 +1,7 @@
 # 겨울 웹페이지 개발 습작 프로젝트
 
 ## 0. 홈페이지 주소
-* ### https://anchovia.github.io/HamstoryWebProject/
+* ### https://github.com/HamstoryProject
 
 ## 1. 홈페이지 이름
 * ### Hamstory
